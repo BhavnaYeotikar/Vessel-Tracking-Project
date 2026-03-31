@@ -1,0 +1,5 @@
+{
+  "name": "VesselTracker Pro",
+  "description": "Real-time global vessel tracking system using IMO numbers and names.",
+  "requestFramePermissions": ["geolocation"]
+}
